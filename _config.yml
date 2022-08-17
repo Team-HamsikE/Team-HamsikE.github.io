@@ -17,9 +17,9 @@ menu:
     url: /contact
   - title: 팀원 메모
     url: /feed.xml
-email: junghou25@gmail.com
+email: hamsike@kakao.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: hamsike
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: xknenkkz
@@ -44,7 +44,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://team-hamsike.github.io" # the base hostname & protocol for your site
 google_analytics: "3988232944"
 language: "ko"
 categories_folder: category
