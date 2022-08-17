@@ -37,6 +37,11 @@ tags:
   </tfoot>
   <tbody>
     <tr>
+      <td>팀장</td>
+      <td>한서화 (Seohwa Han)</td>
+      <td>Stolen Realm(검수)</td>
+    </tr>
+    <tr>
       <td>팀원</td>
       <td>E Gabo</td>
       <td>미 참여</td>
@@ -45,11 +50,6 @@ tags:
       <td>팀원</td>
       <td>LowJhin</td>
       <td>Stolen Realm</td>
-    </tr>
-    <tr>
-      <td>팀장</td>
-      <td>한서화 (Seohwa Han)</td>
-      <td>Stolen Realm(검수)</td>
     </tr>
   </tbody>
 </table>
