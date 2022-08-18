@@ -3,7 +3,7 @@ layout: post
 title: Team HamsikE
 subtitle: 팀 햄식이 정보
 description: Team HamsikE Introduction
-author: LowJhin
+author: HamsikE
 date: 2022-08-15 12:00:00 +0900
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
