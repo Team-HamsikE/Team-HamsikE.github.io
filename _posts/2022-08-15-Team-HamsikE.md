@@ -7,7 +7,7 @@ author: LowJhin
 date: 2022-08-15 12:00:00 +0900
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: Introduction
+category: Notice
 tags:
   - Team HamsikE
 ---
@@ -55,4 +55,6 @@ tags:
 </table>
 
 새로 번역팀에 참여하고 싶으신 분들은 공식 메일 (hamsike@kakao.com)으로 연락주시길 바라겠습니다.
+
+
 번역 검수 경험을 쌓고 싶으신 학생분들도 환영입니다! (단, 이 경우 최소 근무 일자가 있습니다. 경력을 위한 결정이니 안심하세요!)
