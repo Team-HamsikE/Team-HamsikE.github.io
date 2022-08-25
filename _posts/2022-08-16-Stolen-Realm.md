@@ -3,7 +3,7 @@ layout: post
 title: Stolen Realm (잊혀진 왕국)
 subtitle: 턴제 RPG Stolen Realm 한글패치
 description: Stolen Realm 한글패치
-author: LowJhin
+author: HamsikE
 date: 2022-08-16 19:07:00 +0900
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
